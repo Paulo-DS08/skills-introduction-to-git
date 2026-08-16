@@ -1,3 +1,6 @@
+
+//Que hago mas ya hice el registro y todo eso user.name y user.email
+
 // Game constants
 const COLS = 10;
 const ROWS = 20;
